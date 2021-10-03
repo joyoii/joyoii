@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joyoii, junior frontend developer:)
+- 👋 Hi, I’m @joyoii, junior full stack developer:)
 - 👀 I’m interested in Django, Flutter.
 - 🌱 I’m currently learning Django.
 
